@@ -11,10 +11,8 @@ I'm a passionate software engineer dedicated to pushing the boundaries of techno
 
 ### [Quick Grocery Store].
 
-
-### [Hotel Managment System]
-
- And Many more....!
+### [Hotel Managment ]
+And Many more....!
 ### ...
 
 Feel free to explore more projects in the repository!
