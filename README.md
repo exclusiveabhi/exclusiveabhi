@@ -1,6 +1,6 @@
 # Abhishek's GitHub Profile 🚀
 
-Welcome to my GitHub repository! I'm Abhishek Rajpoot, known as exclusiveabhi in the coding realm. Here you'll find an assortment of my projects and contributions, showcasing my enthusiasm for software development and problem-solving.
+Welcome to my GitHub repository! I'm Abhishek Rajpoot, known as exclusiveabhi in the coding realm. Here you'll find an assortment of my projects and contributions, showcasing my enthusiasm for Web development and problem-solving.
 
 ## About Me 🌟
 
