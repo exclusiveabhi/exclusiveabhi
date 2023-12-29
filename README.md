@@ -1,42 +1,25 @@
-# Abhishek's GitHub Profile 🚀
+### Hi there, I'm Abhishek Rajpoot! 👋
 
-Welcome to my GitHub repository! I'm Abhishek Rajpoot, known as exclusiveabhi in the coding realm. Here you'll find an assortment of my projects and contributions, showcasing my enthusiasm for Web development and problem-solving.
+I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.
 
-## About Me 🌟
+#### 🚀 Quick Overview:
+- 🎓 Studying B.Tech in Computer Science and Engineering at Moradabad Institute of Technology.
+- 💻 Web Developer with a focus on front-end  and back-end technologies.
+- 🌐 Constantly exploring new technologies and frameworks to enhance my skills.
 
-I'm a passionate Web Developer dedicated to pushing the boundaries of technology. My journey has equipped me with a versatile skill set, spanning various programming languages, frameworks, and tools. I thrive on continuous learning and stay on the lookout for emerging technologies to stay ahead in the dynamic world of tech.
+#### 🔧 Tech Stack:
+- HTML, CSS, JavaScript
+- PHP, Tailwind Css
+- React.js
+- Node.js
+- Git & GitHub
 
-## Projects 🛠️
+#### 🌱 I’m currently learning:
+- Advanced JavaScript concepts
+- Server-side development with Node.js
 
+#### 🤝 Let's Connect:
+- 📧 Email: imexclusiveabhi@gmail.com
+- 💼 LinkedIn: [Abhishek Rajpoot](https://www.linkedin.com/in/abhishek-rajput-37ab94248)
 
-### [Quick Grocery Store].
-
-### [Hotel Managment ]
-
-And Many more....!
-
-Feel free to explore more projects in the repository!
-
-
-## Skills 💻
-
-- **Programming Languages:** C,C++,Python;
-- **Web Technologies:** PHP,JavaScript,MongoDB,Nodejs,MySQL,ReactJs;
-- **Tools and Frameworks:** Tailwind css,Bootstrap;
-
-## Get in Touch 📬
-
-- **LinkedIn:** [Abhishek Rajpoot]
-- **Twitter:** [@exclusiveabhi]
-
-Feel free to reach out for questions, collaboration opportunities, or just to connect!
-
-## Acknowledgments 🙏
-
-A big shoutout to the open-source community and my mentors who've inspired and guided me.
-
-## License ⚖️
-
-All projects are available under the [MIT License](LICENSE), unless stated otherwise.
-
-Thanks for dropping by my GitHub profile. Happy coding! 🚀
+🚀 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat. Happy coding! 🚀
