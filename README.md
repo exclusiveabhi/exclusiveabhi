@@ -4,7 +4,7 @@ Welcome to my GitHub repository! I'm Abhishek Rajpoot, known as exclusiveabhi in
 
 ## About Me 🌟
 
-I'm a passionate software engineer dedicated to pushing the boundaries of technology. My journey has equipped me with a versatile skill set, spanning various programming languages, frameworks, and tools. I thrive on continuous learning and stay on the lookout for emerging technologies to stay ahead in the dynamic world of tech.
+I'm a passionate Web Developer dedicated to pushing the boundaries of technology. My journey has equipped me with a versatile skill set, spanning various programming languages, frameworks, and tools. I thrive on continuous learning and stay on the lookout for emerging technologies to stay ahead in the dynamic world of tech.
 
 ## Projects 🛠️
 
@@ -12,18 +12,17 @@ I'm a passionate software engineer dedicated to pushing the boundaries of techno
 ### [Quick Grocery Store].
 
 ### [Hotel Managment ]
+
 And Many more....!
-### ...
 
 Feel free to explore more projects in the repository!
-
 
 
 ## Skills 💻
 
 - **Programming Languages:** C,C++,Python;
-- **Web Technologies:** PHP,Js,MongoDB,Nodejs,Mysql,Reactjs;
-- **Tools and Frameworks:** Tailwind css , Net;
+- **Web Technologies:** PHP,JavaScript,MongoDB,Nodejs,MySQL,ReactJs;
+- **Tools and Frameworks:** Tailwind css,Bootstrap;
 
 ## Get in Touch 📬
 
