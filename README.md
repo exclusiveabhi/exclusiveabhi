@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Abhishek Rajpoot! 👋<br>I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.
+Hi there, I'm Abhishek Rajpoot! 👋<br>I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.<br></br>
  [E-mail](imexclusiveabhi@gmail.com)
  
 ## 🌐 Socials:
