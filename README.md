@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Abhishek Rajpoot! 👋<br>I'm a passionate web developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.<br></br>
- [E-mail](imexclusiveabhi@gmail.com)
+ E-mail:- imexclusiveabhi@gmail.com
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/exclusiveabhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imexclusiveabhi) 
