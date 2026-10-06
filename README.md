@@ -13,7 +13,7 @@
 | [**Job Portal**](https://github.com/exclusiveabhi/react-job-portal) | Job seekers browse and apply; employers post roles and review applications | MongoDB, Express, React, Node.js, JWT, Cloudinary | ![stars](https://img.shields.io/github/stars/exclusiveabhi/react-job-portal?style=flat&label=%E2%98%85) |
 | [**ResumeCraft**](https://github.com/exclusiveabhi/ai-resume-builder) | AI resume builder with live preview and shareable links | Next.js, Gemini API, Clerk, MongoDB | ![stars](https://img.shields.io/github/stars/exclusiveabhi/ai-resume-builder?style=flat&label=%E2%98%85) |
 | [**SecureVideo**](https://github.com/exclusiveabhi/secure-video-mern-project) | Password-protected, time-limited video sharing with rate limiting | Next.js 15, TypeScript, Supabase, Vercel Blob | ![stars](https://img.shields.io/github/stars/exclusiveabhi/secure-video-mern-project?style=flat&label=%E2%98%85) |
-| [**Opsrift**](https://github.com/exclusiveabhi/opsrift) | Autonomous ops platform: monitoring, diagnosis and fixes by AI agents | Next.js, FastAPI, PostgreSQL, Terraform | ![stars](https://img.shields.io/github/stars/exclusiveabhi/opsrift?style=flat&label=%E2%98%85) |
+| [**GuardianSync**](https://github.com/exclusiveabhi/child-safety-tracker_guardianSync) | Real-time child safety tracking with GPS, facial recognition and SMS alerts | React Native, React, Node.js, Express, MongoDB | ![stars](https://img.shields.io/github/stars/exclusiveabhi/child-safety-tracker_guardianSync?style=flat&label=%E2%98%85) |
 | [**File Share**](https://github.com/exclusiveabhi/file-share) | Peer-to-peer file transfer between two browsers | WebRTC, JavaScript | ![stars](https://img.shields.io/github/stars/exclusiveabhi/file-share?style=flat&label=%E2%98%85) |
 
 ### Tech stack
