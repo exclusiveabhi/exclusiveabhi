@@ -1,6 +1,6 @@
 ## Hi, I'm Abhishek Rajpoot 👋
 
-**Full-stack developer building AI-powered web products.** I work across React and Next.js on the front end, Node.js and Python on the back end, and RAG pipelines that answer from real sources.
+**Full-stack developer building AI-powered products.** I work across React and Next.js on the front end, Node.js and Python on the back end, and RAG pipelines that answer from real sources.
 
 - 🛠️ I ship production REST APIs, cloud deployments on AWS, and LLM features with source-backed answers.
 - 🌱 I contribute to open source: [see my pull requests](https://github.com/search?q=is%3Apr+author%3Aexclusiveabhi+-user%3Aexclusiveabhi&type=pullrequests).
