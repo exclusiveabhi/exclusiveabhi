@@ -1,15 +1,23 @@
-# 💫 About Me:
-Hello there, I'm Abhishek Rajpoot! 👋<br>A passionate Web Developer currently pursuing my B.Tech at Moradabad Institute of Technology. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative web solutions.<br></br>
- E-mail:- imexclusiveabhi@gmail.com
- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-8A2BE2)](https://www.linkedin.com/in/abhishek-rajput-/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/exclusiveabhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imexclusiveabhi) 
+## Hi, I'm Abhishek Rajpoot 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+**Full-stack developer building AI-powered web products.** I work across React and Next.js on the front end, Node.js and Python on the back end, and RAG pipelines that answer from real sources.
 
----
-![]([![](https://visitcount.itsvg.in/api?id=exclusiveabhi&label=Profile%1170Views&pretty=false)](https://visitcount.itsvg.in))
+- 🛠️ I ship production REST APIs, cloud deployments on AWS, and LLM features with source-backed answers.
+- 🌱 I contribute to open source: [see my pull requests](https://github.com/pulls?q=is%3Apr+author%3Aexclusiveabhi+-user%3Aexclusiveabhi).
+- 📫 Reach me at **imexclusiveabhi@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/abhishek-rajput-/).
 
-         Happy Coding !!
+### Selected projects
+
+| Project | What it does | Built with | |
+| --- | --- | --- | --- |
+| [**Job Portal**](https://github.com/exclusiveabhi/react-job-portal) | Job seekers browse and apply; employers post roles and review applications | MongoDB, Express, React, Node.js, JWT, Cloudinary | ![stars](https://img.shields.io/github/stars/exclusiveabhi/react-job-portal?style=flat&label=%E2%98%85) |
+| [**ResumeCraft**](https://github.com/exclusiveabhi/ai-resume-builder) | AI resume builder with live preview and shareable links | Next.js, Gemini API, Clerk, MongoDB | ![stars](https://img.shields.io/github/stars/exclusiveabhi/ai-resume-builder?style=flat&label=%E2%98%85) |
+| [**SecureVideo**](https://github.com/exclusiveabhi/secure-video-mern-project) | Password-protected, time-limited video sharing with rate limiting | Next.js 15, TypeScript, Supabase, Vercel Blob | ![stars](https://img.shields.io/github/stars/exclusiveabhi/secure-video-mern-project?style=flat&label=%E2%98%85) |
+| [**Opsrift**](https://github.com/exclusiveabhi/opsrift) | Autonomous ops platform: monitoring, diagnosis and fixes by AI agents | Next.js, FastAPI, PostgreSQL, Terraform | ![stars](https://img.shields.io/github/stars/exclusiveabhi/opsrift?style=flat&label=%E2%98%85) |
+| [**File Share**](https://github.com/exclusiveabhi/file-share) | Peer-to-peer file transfer between two browsers | WebRTC, JavaScript | ![stars](https://img.shields.io/github/stars/exclusiveabhi/file-share?style=flat&label=%E2%98%85) |
+
+### Tech stack
+
+[![Tech stack](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,redux,nodejs,express,fastapi,django,postgres,mongodb,mysql,aws,vercel,githubactions&perline=9)](https://skillicons.dev)
+
+**AI:** retrieval-augmented generation (RAG), vector search, multi-model LLM integration, AI agents
